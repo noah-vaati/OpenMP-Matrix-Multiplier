@@ -1,19 +1,9 @@
-# Comp 4510 - Sample OpenMP Makefile
-
-###############################################
-# Change these files names to match your own: #
-###############################################
-
 # name of the executable to be generated
 PROG = q2
 # space-delimited list of header files
 HDRS =
 # space-delimited list of source files
 SRCS = q2.c 
-
-#######################
-# Don't change these: #
-#######################
 
 # directory to store object files
 OBJDIR = object
